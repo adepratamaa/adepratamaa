@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adepratamaa
-- 👀 I’m interested in IT 
-- 🌱 I’m currently learning Quality Assurance
+- 👀 I’m interested in Quality Assurance
+- 🌱 I’m currently learning Manual and automation testing
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me adepratamaa99@gmail.com
 
