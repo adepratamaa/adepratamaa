@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adepratamaa
 - 👀 I’m QA Engineer
-- 💞️ I’m looking to collaborate on anything
+- 💞️ Lets collaborate
 - 📫 How to reach me adepratamaa99@gmail.com
 
 <!---
