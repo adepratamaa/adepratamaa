@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @adepratamaa
-- 👀 I’m QA Engineer
-- 💞️ Lets collaborate
-- 📫 How to reach me adepratamaa99@gmail.com
+With 4 years of experience as a QA Engineer, I excel in delivering reliable, high-quality software through effective testing, collaborating with international teams, and working remotely.
 
 <!---
 adepratamaa/adepratamaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
