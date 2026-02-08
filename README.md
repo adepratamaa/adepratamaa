@@ -1,4 +1,4 @@
-With more than 4 years of experience as a QA Engineer, I excel in delivering reliable, high-quality software through effective testing, collaborating with international teams, and working remotely.
+I have about 5 years of experience as a QA Engineer, I excel in delivering reliable, high-quality software through effective testing, collaborating with international teams, and working remotely.
 
 - Email: adepratamaa99@gmail.com
 <!---
